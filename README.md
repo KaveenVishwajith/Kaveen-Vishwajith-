@@ -1,6 +1,6 @@
-# 💻 Kaveevishwajith
+# 💻 Hi there, I'm Kaveen Vishwajith
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaveevishwajith&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=KaveenVishwajith&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveen%20Vishwajith-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kaveen-vishwajith-435436254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 🚀 **Backend Developer | Full-Stack Enthusiast | Networking Lover**  
